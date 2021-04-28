@@ -6,9 +6,11 @@ import com.scg.fourth.SortSal;
 public class Execute {
 
 	public static void main(String[] args) {
+
 		List<Employee> employee = new ArrayList<Employee>();
 		int employee1=1;
-		
+		String x="hello welcome";
+
 		employee.add(new Employee(3, "Rukesh","Developer","Bangalore",25000));
 		employee.add(new Employee(4, "Ravichandra","Tester","Bangalore",22000));
 		employee.add(new Employee(1, "Nayana","Analyst","Bangalore",20000));
