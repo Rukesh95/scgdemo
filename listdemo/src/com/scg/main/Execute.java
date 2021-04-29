@@ -10,6 +10,7 @@ public class Execute {
 		List<Employee> employee = new ArrayList<Employee>();
 		int employee1=1;
 		String x="hello welcome";
+		int salary=40000;
 
 		employee.add(new Employee(3, "Rukesh","Developer","Bangalore",25000));
 		employee.add(new Employee(4, "Ravichandra","Tester","Bangalore",22000));
